@@ -208,7 +208,7 @@
                 </div>
               </div>
               <div class="header-action-style">
-                 <router-link to="/admin"><i class="pe-7s-user"></i>
+                 <router-link to="/admin"> ><i class="pe-7s-user"></i>
                  </router-link>
                  
                 

@@ -208,10 +208,9 @@
                 </div>
               </div>
               <div class="header-action-style">
-                 <router-link to="/admin"><i class="pe-7s-user"></i>
-                 </router-link>
-                 
-                
+                <a title="Login Register" href="login-register.html"
+                  ><i class="pe-7s-user"></i
+                ></a>
               </div>
               <div class="header-action-style">
                 <a title="Wishlist" href="wishlist.html"

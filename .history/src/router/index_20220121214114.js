@@ -17,25 +17,10 @@ const routes = [
     component: () => import("@/pages/Admin.vue"),
     meta: { title: "Admin" },
   },{
-    path: "/admin/user",
-    name: "user",
-    component: () => import("@/pages/Admin/user.vue"),
-    meta: { title: "Admin_user" },
-  },{
-    path: "/admin/product",
-    name: "product",
-    component: () => import("@/pages/Admin/product.vue"),
-    meta: { title: "Admin_product" },
-  },{
-    path: "/admin/article",
-    name: "article",
-    component: () => import("@/pages/Admin/article.vue"),
-    meta: { title: "Admin_article" },
-  },{
-    path: "/admin/order",
-    name: "order",
-    component: () => import("@/pages/Admin/order.vue"),
-    meta: { title: "Admin_order" },
+    path: "/admin/audit_logs",
+    name: "audit_logs",
+    component: () => import("@/pages/admin/user.vue"),
+    meta: { title: "Admin" },
   },
   
 ];

@@ -10,7 +10,7 @@ import "bootstrap/dist/css/bootstrap.css";
 import "bootstrap-vue/dist/bootstrap-vue.css";
 
 // swipper
-// import "swiper/css/swiper.css";
+import "swiper/css/swiper.css";
 
 // css page
 // import "@/assets/css/vendor/bootstrap.min.css";
