@@ -5,29 +5,35 @@
         <div class="row align-items-center">
           <div class="col-lg-6 col-6">
             <div class="welcome-text">
-              <p>Default Welcome Msg!</p>
+              <p>Hello, wellcome to urdan shop!</p>
             </div>
           </div>
           <div class="col-lg-6 col-6">
             <div class="language-currency-wrap">
               <div class="currency-wrap border-style">
                 <a class="currency-active" href="#"
-                  >$ Dollar (US) <i class="ti-angle-down"></i
+                  >VNĐ(VN)<i class="ti-angle-down"></i
                 ></a>
                 <div class="currency-dropdown">
                   <ul>
-                    <li><a href="#">Taka (BDT) </a></li>
+                    <li><a href="#">$(US) </a></li>
                     <li><a href="#">Riyal (SAR) </a></li>
                     <li><a href="#">Rupee (INR) </a></li>
                   </ul>
                 </div>
               </div>
-              <div class="language-wrap">
+              <div
+                class="language-wrap"
+                @click="isShowCountry = !isShowCountry"
+              >
                 <a class="language-active" href="#"
-                  ><img src="@/assets/images/icon-img/flag.png" alt="" /> English
-                  <i class="ti-angle-down"></i
+                  ><img
+                    class="icon_flag_country"
+                    src="@/assets/images/icon-img/co_vietnam.png"
+                    alt="" />
+                  Việt nam <i class="ti-angle-down"></i
                 ></a>
-                <div class="language-dropdown">
+                <div class="language-dropdown" :class="{ show: isShowCountry }">
                   <ul>
                     <li>
                       <a href="#"
@@ -155,7 +161,9 @@
                           </li>
                           <li>
                             <a href="shop.html"
-                              ><img src="@/assets/images/banner/menu.png" alt=""
+                              ><img
+                                src="@/assets/images/banner/menu.png"
+                                alt=""
                             /></a>
                           </li>
                         </ul>
@@ -207,11 +215,9 @@
                   </form>
                 </div>
               </div>
-              <div class="header-action-style">
+               <div class="header-action-style">
                  <router-link to="/admin"><i class="pe-7s-user"></i>
-                 </router-link>
-                 
-                
+                 </router-link>              
               </div>
               <div class="header-action-style">
                 <a title="Wishlist" href="wishlist.html"
@@ -240,8 +246,23 @@
 <script>
 export default {
   name: "Header",
+  data() {
+    return {
+      isShowCountry: false,
+    };
+  },
 };
 </script>
 
 <style scoped>
+.icon_flag_country {
+  width: 16px;
+  height: 100%;
+}
+
+.language-currency-wrap .language-wrap .language-dropdown.show {
+  display: block;
+  height: 133px;
+  transition: all 0.5s;
+}
 </style>
