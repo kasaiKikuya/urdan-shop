@@ -31,7 +31,7 @@
                     class="icon_flag_country"
                     src="@/assets/images/icon-img/co_vietnam.png"
                     alt="" />
-                  Việt nam <i class="ti-angle-down"></i
+                  Viet nam <i class="ti-angle-down"></i
                 ></a>
                 <div class="language-dropdown" :class="{ show: isShowCountry }">
                   <ul>
@@ -263,7 +263,9 @@ export default {
 
 .language-currency-wrap .language-wrap .language-dropdown.show {
   display: block;
-  height: 133px;
-  transition: all 0.5s;
+  /* height: 133px;
+  transition: all 0.5s; */
+  transform: rotateX(0deg);
+  visibility: visible;
 }
 </style>

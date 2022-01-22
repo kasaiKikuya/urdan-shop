@@ -20,7 +20,7 @@ import "@/assets/css/vendor/font-awesome.min.css";
 import "@/assets/css/plugins/animate.css";
 import "@/assets/css/plugins/aos.css";
 import "@/assets/css/plugins/magnific-popup.css";
-import "@/assets/css/plugins/swiper.min.css";
+// import "@/assets/css/plugins/swiper.min.css";
 // import "@/assets/css/plugins/jquery-ui.css";
 import "@/assets/css/plugins/nice-select.css";
 import "@/assets/css/plugins/select2.min.css";
