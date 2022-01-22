@@ -29,7 +29,7 @@
                                         <!-- Single Tab Content Start -->
                                         <div class="tab-pane fade show active" id="orders" role="tabpanel">
                                             <div class="myaccount-content">
-                                                <h3>Orders</h3>
+                                                <h3>User</h3>
                                             
                                             </div>
                                         </div>
@@ -41,11 +41,10 @@
                 </div>
             </div>
         </div>
-      
-            
-         
-    </div></template>
-
+       
+    </div>
+    
+</template>
 <script>
     
 export default {
