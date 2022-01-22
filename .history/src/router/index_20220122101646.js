@@ -38,9 +38,9 @@ const routes = [
     component: () => import("@/pages/Admin/order.vue"),
     meta: { title: "Admin_order" },
   },{
-    path: "/admin/account",
-    name: "account",
-    component: () => import("@/pages/Admin/account.vue"),
+    path: "/admin/account_detail",
+    name: "order",
+    component: () => import("@/pages/Admin/order.vue"),
     meta: { title: "Admin_account" },
   },
   

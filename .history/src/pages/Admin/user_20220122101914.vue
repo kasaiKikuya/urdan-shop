@@ -1,5 +1,5 @@
 <template>
-  <div class="main-wrapper main-wrapper-2">
+<div class="main-wrapper main-wrapper-2">
        
         <!-- <div class="breadcrumb-area bg-gray-4 breadcrumb-padding-1">
             <div class="container">
@@ -30,8 +30,8 @@
                             <div class="row">
                                 <div class="col-lg-3 col-md-4">
                                     <div class="myaccount-tab-menu nav" role="tablist">
-                                        <a href="#dashboad" class="active" data-bs-toggle="tab">Dashboard</a>
-                                        <router-link to="/admin/user">user</router-link>
+                                        <router-link to="/admin">Dashboard</router-link>
+                                        <router-link class="active"   to="/admin/user">user</router-link>
                                         <router-link to="/admin/product">products</router-link>
                                         <router-link to="/admin/article">articles</router-link>
                                         <router-link to="/admin/user">orders</router-link>
@@ -388,18 +388,15 @@
                 </div>
             </div>
         </div> -->
-    </div>
-</template>
+    </div></template>
 
 <script>
-
 export default {
-  name: "Admin",
+  name: "admin_user",
   data() {
     return {};
   },
 };
-
 </script>
 
 <style>

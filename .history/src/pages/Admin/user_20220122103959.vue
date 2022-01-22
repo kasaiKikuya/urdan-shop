@@ -22,7 +22,7 @@
                                 </div>
                                 <!-- My Account Tab Menu End -->
 
-                                
+
                                 <!-- My Account Tab Content Start -->
                                 <div class="col-lg-9 col-md-8">
                                     <div class="tab-content" id="myaccountContent">
@@ -30,7 +30,9 @@
                                         <div class="tab-pane fade show active" id="orders" role="tabpanel">
                                             <div class="myaccount-content">
                                                 <h3>Orders</h3>
-                                            
+                                                
+                                                    
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
@@ -47,7 +49,6 @@
     </div></template>
 
 <script>
-    
 export default {
   name: "admin_user",
   data() {

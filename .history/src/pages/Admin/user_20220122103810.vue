@@ -1,10 +1,29 @@
 <template>
 <div class="main-wrapper main-wrapper-2">
+       
+        <!-- <div class="breadcrumb-area bg-gray-4 breadcrumb-padding-1">
+            <div class="container">
+                <div class="breadcrumb-content text-center">
+                    <h2>My Account </h2>
+                    <ul>
+                        <li><a href="index.html">Home</a></li>
+                        <li><i class="ti-angle-right"></i></li>
+                        <li>My Account </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="breadcrumb-img-1">
+                <img src="assets/images/banner/breadcrumb-1.png" alt="">
+            </div>
+            <div class="breadcrumb-img-2">
+                <img src="assets/images/banner/breadcrumb-2.png" alt="">
+            </div>
+        </div> -->
+        <!-- my account wrapper start -->
         <div class="my-account-wrapper pb-100 pt-100">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
-
                         <!-- My Account Page Start -->
                         <div class="myaccount-page-wrapper">
                             <!-- My Account Tab Menu Start -->
@@ -21,8 +40,6 @@
                                     </div>
                                 </div>
                                 <!-- My Account Tab Menu End -->
-
-                                
                                 <!-- My Account Tab Content Start -->
                                 <div class="col-lg-9 col-md-8">
                                     <div class="tab-content" id="myaccountContent">
@@ -30,7 +47,9 @@
                                         <div class="tab-pane fade show active" id="orders" role="tabpanel">
                                             <div class="myaccount-content">
                                                 <h3>Orders</h3>
-                                            
+                                                <div class="myaccount-table table-responsive text-center">
+                                                    
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
@@ -47,7 +66,6 @@
     </div></template>
 
 <script>
-    
 export default {
   name: "admin_user",
   data() {

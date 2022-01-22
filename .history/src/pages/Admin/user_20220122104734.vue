@@ -30,7 +30,7 @@
                                         <div class="tab-pane fade show active" id="orders" role="tabpanel">
                                             <div class="myaccount-content">
                                                 <h3>Orders</h3>
-                                            
+                                               
                                             </div>
                                         </div>
                                     </div>
@@ -47,7 +47,6 @@
     </div></template>
 
 <script>
-    
 export default {
   name: "admin_user",
   data() {
