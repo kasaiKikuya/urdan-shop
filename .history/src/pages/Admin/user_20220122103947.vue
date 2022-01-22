@@ -12,8 +12,8 @@
                                 <div class="col-lg-3 col-md-4">
                                     <div class="myaccount-tab-menu nav" role="tablist">
                                         <router-link to="/admin">Dashboard</router-link>
-                                        <router-link    to="/admin/user">user</router-link>
-                                        <router-link class="active" to="/admin/product">products</router-link>
+                                        <router-link class="active"   to="/admin/user">user</router-link>
+                                        <router-link to="/admin/product">products</router-link>
                                         <router-link to="/admin/article">articles</router-link>
                                         <router-link to="/admin/user">orders</router-link>
                                         <a href="#account-info" data-bs-toggle="tab">Account Details</a>
@@ -29,8 +29,10 @@
                                         <!-- Single Tab Content Start -->
                                         <div class="tab-pane fade show active" id="orders" role="tabpanel">
                                             <div class="myaccount-content">
-                                                <h3>Products</h3>
-                                            
+                                                <h3>Orders</h3>
+                                                <div class="myaccount-table table-responsive text-center">
+                                                    
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
@@ -41,14 +43,14 @@
                 </div>
             </div>
         </div>
-       
-    </div>
-    
-</template>
+      
+            
+         
+    </div></template>
 
 <script>
 export default {
-  name: "admin_product",
+  name: "admin_user",
   data() {
     return {};
   },

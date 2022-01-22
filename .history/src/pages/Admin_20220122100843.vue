@@ -217,8 +217,8 @@
                 </div>
             </div>
         </div>
-        <!-- my account wrapper end -->
-        <!-- <footer class="footer-area">
+        my account wrapper end
+        <footer class="footer-area">
             <div class="bg-gray-2">
                 <div class="container">
                     <div class="footer-top pt-80 pb-35">
@@ -283,9 +283,9 @@
                     </div>
                 </div>
             </div>
-        </footer> -->
+        </footer>
         <!-- Mobile Menu start -->
-        <!-- <div class="off-canvas-active">
+        <div class="off-canvas-active">
             <a class="off-canvas-close"><i class=" ti-close "></i></a>
             <div class="off-canvas-wrap">
                 <div class="welcome-text off-canvas-margin-padding">
@@ -387,7 +387,7 @@
                     </div>
                 </div>
             </div>
-        </div> -->
+        </div>
     </div>
 </template>
 

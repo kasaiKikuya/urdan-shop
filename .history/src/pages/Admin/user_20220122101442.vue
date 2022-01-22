@@ -1,5 +1,5 @@
 <template>
-  <div class="main-wrapper main-wrapper-2">
+<div class="main-wrapper main-wrapper-2">
        
         <!-- <div class="breadcrumb-area bg-gray-4 breadcrumb-padding-1">
             <div class="container">
@@ -388,18 +388,15 @@
                 </div>
             </div>
         </div> -->
-    </div>
-</template>
+    </div></template>
 
 <script>
-
 export default {
-  name: "Admin",
+  name: "admin_user",
   data() {
     return {};
   },
 };
-
 </script>
 
 <style>
