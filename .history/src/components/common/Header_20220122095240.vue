@@ -5,7 +5,7 @@
         <div class="row align-items-center">
           <div class="col-lg-6 col-6">
             <div class="welcome-text">
-              <p>Hello, welcome to urdan shop!</p>
+              <p>Hello, wellcome to urdan shop!</p>
             </div>
           </div>
           <div class="col-lg-6 col-6">
@@ -266,3 +266,4 @@ export default {
   transition: all 0.5s;
 }
 </style>
+>>>>>>> c14ed326beddd74b953752e6b7c4678274a5196b

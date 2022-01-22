@@ -5,7 +5,7 @@
         <div class="row align-items-center">
           <div class="col-lg-6 col-6">
             <div class="welcome-text">
-              <p>Hello, welcome to urdan shop!</p>
+              <p>Hello, wellcome to urdan shop!</p>
             </div>
           </div>
           <div class="col-lg-6 col-6">
