@@ -1,0 +1,142 @@
+[
+	{
+		"id": 1,
+		"article_id": 7,
+		"user_id": 12,
+		"content": "eu augue porttitor interdum. Sed auctor odio a purus. Duis elementum, dui quis accumsan convallis, ante lectus convallis est, vitae sodales nisi magna sed dui. Fusce aliquam, enim nec",
+		"created_at": "31-08-21"
+	},
+	{
+		"id": 2,
+		"article_id": 20,
+		"user_id": 17,
+		"content": "gravida sagittis. Duis gravida. Praesent eu nulla at sem molestie sodales. Mauris blandit enim consequat purus. Maecenas libero est, congue a, aliquet vel, vulputate eu, odio. Phasellus at augue",
+		"created_at": "20-01-22"
+	},
+	{
+		"id": 3,
+		"article_id": 9,
+		"user_id": 15,
+		"content": "pellentesque. Sed dictum. Proin eget odio. Aliquam vulputate ullamcorper magna. Sed eu eros. Nam consequat dolor vitae dolor. Donec fringilla. Donec feugiat metus sit amet ante. Vivamus non lorem",
+		"created_at": "15-05-21"
+	},
+	{
+		"id": 4,
+		"article_id": 20,
+		"user_id": 4,
+		"content": "Aliquam rutrum lorem ac risus. Morbi metus. Vivamus euismod urna. Nullam lobortis quam a felis ullamcorper viverra. Maecenas iaculis aliquet diam. Sed diam lorem, auctor quis, tristique ac, eleifend",
+		"created_at": "10-01-22"
+	},
+	{
+		"id": 5,
+		"article_id": 3,
+		"user_id": 16,
+		"content": "Morbi neque tellus, imperdiet non, vestibulum nec, euismod in, dolor. Fusce feugiat. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam auctor, velit eget laoreet posuere, enim nisl elementum",
+		"created_at": "19-12-21"
+	},
+	{
+		"id": 6,
+		"article_id": 20,
+		"user_id": 18,
+		"content": "ac turpis egestas. Fusce aliquet magna a neque. Nullam ut nisi a odio semper cursus. Integer mollis. Integer tincidunt aliquam arcu. Aliquam ultrices iaculis odio. Nam interdum enim non",
+		"created_at": "11-07-22"
+	},
+	{
+		"id": 7,
+		"article_id": 10,
+		"user_id": 1,
+		"content": "eu dolor egestas rhoncus. Proin nisl sem, consequat nec, mollis vitae, posuere at, velit. Cras lorem lorem, luctus ut, pellentesque eget, dictum placerat, augue. Sed molestie. Sed id risus",
+		"created_at": "03-05-22"
+	},
+	{
+		"id": 8,
+		"article_id": 15,
+		"user_id": 7,
+		"content": "mauris. Integer sem elit, pharetra ut, pharetra sed, hendrerit a, arcu. Sed et libero. Proin mi. Aliquam gravida mauris ut mi. Duis risus odio, auctor vitae, aliquet nec, imperdiet",
+		"created_at": "25-12-21"
+	},
+	{
+		"id": 9,
+		"article_id": 20,
+		"user_id": 8,
+		"content": "Proin ultrices. Duis volutpat nunc sit amet metus. Aliquam erat volutpat. Nulla facilisis. Suspendisse commodo tincidunt nibh. Phasellus nulla. Integer vulputate, risus a ultricies adipiscing, enim mi tempor lorem,",
+		"created_at": "25-04-22"
+	},
+	{
+		"id": 10,
+		"article_id": 13,
+		"user_id": 11,
+		"content": "Aliquam ornare, libero at auctor ullamcorper, nisl arcu iaculis enim, sit amet ornare lectus justo eu arcu. Morbi sit amet massa. Quisque porttitor eros nec tellus. Nunc lectus pede,",
+		"created_at": "08-05-22"
+	},
+	{
+		"id": 11,
+		"article_id": 19,
+		"user_id": 17,
+		"content": "diam dictum sapien. Aenean massa. Integer vitae nibh. Donec est mauris, rhoncus id, mollis nec, cursus a, enim. Suspendisse aliquet, sem ut cursus luctus, ipsum leo elementum sem, vitae",
+		"created_at": "31-10-22"
+	},
+	{
+		"id": 12,
+		"article_id": 8,
+		"user_id": 10,
+		"content": "porta elit, a feugiat tellus lorem eu metus. In lorem. Donec elementum, lorem ut aliquam iaculis, lacus pede sagittis augue, eu tempor erat neque non quam. Pellentesque habitant morbi",
+		"created_at": "09-07-21"
+	},
+	{
+		"id": 13,
+		"article_id": 9,
+		"user_id": 10,
+		"content": "convallis erat, eget tincidunt dui augue eu tellus. Phasellus elit pede, malesuada vel, venenatis vel, faucibus id, libero. Donec consectetuer mauris id sapien. Cras dolor dolor, tempus non, lacinia",
+		"created_at": "02-06-22"
+	},
+	{
+		"id": 14,
+		"article_id": 3,
+		"user_id": 13,
+		"content": "Integer mollis. Integer tincidunt aliquam arcu. Aliquam ultrices iaculis odio. Nam interdum enim non nisi. Aenean eget metus. In nec orci. Donec nibh. Quisque nonummy ipsum non arcu. Vivamus",
+		"created_at": "13-01-23"
+	},
+	{
+		"id": 15,
+		"article_id": 5,
+		"user_id": 14,
+		"content": "quam quis diam. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce aliquet magna a neque. Nullam ut nisi a odio semper cursus. Integer",
+		"created_at": "02-02-22"
+	},
+	{
+		"id": 16,
+		"article_id": 6,
+		"user_id": 3,
+		"content": "non dui nec urna suscipit nonummy. Fusce fermentum fermentum arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae Phasellus ornare. Fusce mollis. Duis sit",
+		"created_at": "21-03-21"
+	},
+	{
+		"id": 17,
+		"article_id": 5,
+		"user_id": 1,
+		"content": "eu neque pellentesque massa lobortis ultrices. Vivamus rhoncus. Donec est. Nunc ullamcorper, velit in aliquet lobortis, nisi nibh lacinia orci, consectetuer euismod est arcu ac orci. Ut semper pretium",
+		"created_at": "05-03-22"
+	},
+	{
+		"id": 18,
+		"article_id": 18,
+		"user_id": 12,
+		"content": "Vivamus sit amet risus. Donec egestas. Aliquam nec enim. Nunc ut erat. Sed nunc est, mollis non, cursus non, egestas a, dui. Cras pellentesque. Sed dictum. Proin eget odio.",
+		"created_at": "25-06-21"
+	},
+	{
+		"id": 19,
+		"article_id": 8,
+		"user_id": 7,
+		"content": "rutrum eu, ultrices sit amet, risus. Donec nibh enim, gravida sit amet, dapibus id, blandit at, nisi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+		"created_at": "08-06-22"
+	},
+	{
+		"id": 20,
+		"article_id": 4,
+		"user_id": 15,
+		"content": "orci. Phasellus dapibus quam quis diam. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce aliquet magna a neque. Nullam ut nisi a odio",
+		"created_at": "08-10-22"
+	}
+]
