@@ -6,7 +6,7 @@
           <div class="home-single-product-img">
             <a :href="dataProductCurrent.linkProduct"
               ><img
-                :src="`${require('../../assets/images/' +
+                :src="`${require('@/assets/images/' +
                   dataProductCurrent.image)}`"
                 alt=""
             /></a>

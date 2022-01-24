@@ -2,7 +2,7 @@
   <div class="col-lg-6 col-md-6 col-12">
     <div class="banner-wrap mb-30">
       <a href="product-details.html"
-        ><img :src="`${require('../../assets/images/banner/'+dataBanner.image)}`" alt=""
+        ><img :src="`${require('@/assets/images/banner/'+dataBanner.image)}`" alt=""
       /></a>
       <div class="banner-content-5">
         <span>{{dataBanner.subText}}</span>

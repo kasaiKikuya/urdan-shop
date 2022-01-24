@@ -5,7 +5,7 @@
         <div class="col-lg-6 col-md-6 col-12">
           <div class="banner-wrap mb-30">
             <a href="product-details.html"
-              ><img src="../../assets/images/banner/banner-8.png" alt=""
+              ><img src="@/assets/images/banner/banner-8.png" alt=""
             /></a>
             <div class="banner-content-6">
               <h2>New Furniture</h2>
@@ -16,7 +16,7 @@
         <div class="col-lg-6 col-md-6 col-12">
           <div class="banner-wrap mb-30">
             <a href="product-details.html"
-              ><img src="../../assets/images/banner/banner-9.png" alt=""
+              ><img src="@/assets/images/banner/banner-9.png" alt=""
             /></a>
             <div class="banner-content-6">
               <h2>Old Furniture</h2>

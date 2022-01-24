@@ -17,7 +17,7 @@
                 </p>
                 <div class="payment-img">
                   <a href="#"
-                    ><img src="../../assets/images/icon-img/payment.png" alt="logo"
+                    ><img src="@/assets/images/icon-img/payment.png" alt="logo"
                   /></a>
                 </div>
               </div>

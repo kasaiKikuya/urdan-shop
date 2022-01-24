@@ -3,7 +3,7 @@
     <div class="service-wrap-2 text-center mb-30">
       <div class="service-img-2">
         <img
-          :src="`${require('../../assets/images/icon-img/' + dataService.image)}`"
+          :src="`${require('@/assets/images/icon-img/' + dataService.image)}`"
           alt=""
         />
       </div>

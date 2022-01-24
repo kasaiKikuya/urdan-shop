@@ -8,7 +8,7 @@
               <div class="footer-widget footer-about mb-40">
                 <div class="footer-logo">
                   <a href="index.html"
-                    ><img src="../../assets/images/logo/logo.png" alt="logo"
+                    ><img src="../assets/images/logo/logo.png" alt="logo"
                   /></a>
                 </div>
                 <p>
@@ -17,7 +17,7 @@
                 </p>
                 <div class="payment-img">
                   <a href="#"
-                    ><img src="../../assets/images/icon-img/payment.png" alt="logo"
+                    ><img src="@/assets/images/icon-img/payment.png" alt="logo"
                   /></a>
                 </div>
               </div>

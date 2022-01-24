@@ -5,7 +5,7 @@
         class="intro-section slider-height-1 slider-content-center bg-img single-animation-wrap slider-bg-color-3"
         :style="{
           backgroundImage:
-            'url(' + require('../../assets/images/slider/' + dataItem.image) + ')',
+            'url(' + require('@/assets/images/slider/' + dataItem.image) + ')',
         }"
       >
         <div class="container">

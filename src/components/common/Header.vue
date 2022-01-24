@@ -29,7 +29,7 @@
                 <a class="language-active" href="#"
                   ><img
                     class="icon_flag_country"
-                    src="@/assets/images/icon-img/co_vietnam.png"
+                    src="../../assets/images/icon-img/co_vietnam.png"
                     alt="" />
                   Việt nam <i class="ti-angle-down"></i
                 ></a>
@@ -38,7 +38,7 @@
                     <li>
                       <a href="#"
                         ><img
-                          src="@/assets/images/icon-img/flag.png"
+                          src="../../assets/images/icon-img/flag.png"
                           alt=""
                         />English
                       </a>
@@ -46,7 +46,7 @@
                     <li>
                       <a href="#"
                         ><img
-                          src="@/assets/images/icon-img/spanish.png"
+                          src="../../assets/images/icon-img/spanish.png"
                           alt=""
                         />Spanish</a
                       >
@@ -54,7 +54,7 @@
                     <li>
                       <a href="#"
                         ><img
-                          src="@/assets/images/icon-img/arabic.png"
+                          src="../../assets/images/icon-img/arabic.png"
                           alt=""
                         />Arabic
                       </a>
@@ -73,7 +73,7 @@
           <div class="col-lg-3 col-md-6 col-6">
             <div class="logo">
               <a href="index.html"
-                ><img src="@/assets/images/logo/logo.png" alt="logo"
+                ><img src="../../assets/images/logo/logo.png" alt="logo"
               /></a>
             </div>
           </div>
@@ -162,7 +162,7 @@
                           <li>
                             <a href="shop.html"
                               ><img
-                                src="@/assets/images/banner/menu.png"
+                                src="../../assets/images/banner/menu.png"
                                 alt=""
                             /></a>
                           </li>

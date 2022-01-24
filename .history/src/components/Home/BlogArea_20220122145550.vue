@@ -12,7 +12,7 @@
             <div class="blog-img-date-wrap mb-25">
               <div class="blog-img">
                 <a href="blog-details.html"
-                  ><img src="../../assets/images/blog/blog-1.png" alt=""
+                  ><img src="@/assets/images/blog/blog-1.png" alt=""
                 /></a>
               </div>
               <div class="blog-date">
@@ -48,7 +48,7 @@
             <div class="blog-img-date-wrap mb-25">
               <div class="blog-img">
                 <a href="blog-details.html"
-                  ><img src="../../assets/images/blog/blog-2.png" alt=""
+                  ><img src="@/assets/images/blog/blog-2.png" alt=""
                 /></a>
               </div>
               <div class="blog-date">
@@ -84,7 +84,7 @@
             <div class="blog-img-date-wrap mb-25">
               <div class="blog-img">
                 <a href="blog-details.html"
-                  ><img src="../../assets/images/blog/blog-3.png" alt=""
+                  ><img src="@/assets/images/blog/blog-3.png" alt=""
                 /></a>
               </div>
               <div class="blog-date">

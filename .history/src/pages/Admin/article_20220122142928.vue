@@ -1,19 +1,16 @@
 <template>
-  <div class="main-wrapper main-wrapper-2">
-       
-        
-    </div>
+  <div id="main_app" class="container">
+    <h1>trang article</h1>
+  </div>
 </template>
 
 <script>
-
 export default {
-  name: "Admin",
+  name: "admin_article",
   data() {
     return {};
   },
 };
-
 </script>
 
 <style>

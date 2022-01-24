@@ -3,7 +3,7 @@
     <div class="product-wrap">
       <div class="product-img img-zoom mb-25">
         <a :href="dataProduct.linkProduct">
-          <img :src="`${require('../../assets/images/'+ dataProduct.image)}`" alt="" />
+          <img :src="`${require('@/assets/images/'+ dataProduct.image)}`" alt="" />
         </a>
         <div class="product-badge badge-top badge-right badge-pink">
           <span>{{dataProduct.percentSale}}</span>
