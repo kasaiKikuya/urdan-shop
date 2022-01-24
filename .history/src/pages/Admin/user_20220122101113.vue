@@ -1,8 +1,8 @@
 <template>
-  <div class="user"></div>
+  <div class="usser"></div>
 </template>
+
 <script>
-    
 export default {
   name: "admin_user",
   data() {

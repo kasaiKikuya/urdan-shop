@@ -40,7 +40,7 @@ const routes = [
   },{
     path: "/admin/account",
     name: "account",
-    component: () => import("@/pages/Admin/account.vue"),
+    component: () => import("@/pages/Admin/order.vue"),
     meta: { title: "Admin_account" },
   },
   
