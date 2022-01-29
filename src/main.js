@@ -27,6 +27,12 @@ import "@/assets/css/plugins/select2.min.css";
 import "@/assets/css/plugins/easyzoom.css";
 import "@/assets/css/plugins/slinky.css";
 import "@/assets/css/style.css";
+//Admin page
+import "@/assets/css/slidebars.min.css";
+import "@/assets/css/icons.css";
+import "@/assets/css/menu.css";
+import "@/assets/css/style2.css";
+
 
 Vue.config.productionTip = false;
 Vue.use(BootstrapVue);
